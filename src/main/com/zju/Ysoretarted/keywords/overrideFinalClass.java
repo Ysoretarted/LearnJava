@@ -8,6 +8,7 @@ package main.com.zju.Ysoretarted.keywords;
  */
 public class overrideFinalClass extends finalTest {
     public  overrideFinalClass(){
+        this.job = job;
         System.out.println("这是子类的构造方法");
     }
 
