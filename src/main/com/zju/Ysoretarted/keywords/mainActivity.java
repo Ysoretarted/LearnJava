@@ -6,8 +6,8 @@ package main.com.zju.Ysoretarted.keywords;
  */
 public class mainActivity {
     public static void main(String[] args) {
-        staticTest test = new staticTest();
-        test.setB(1024);
-        test.a = 12;
+        /*finalTest test = new finalTest();
+        test.changeNum();
+        System.out.println(test.toString());*/
     }
 }
