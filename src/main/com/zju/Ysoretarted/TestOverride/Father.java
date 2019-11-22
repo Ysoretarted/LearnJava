@@ -32,4 +32,7 @@ public class Father {
     public void setAge(int age) {
         this.age = age;
     }
+
+    public void Father(){   //方法名可以和类名一样，只是不符合规范
+    }
 }
